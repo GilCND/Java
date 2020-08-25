@@ -1,6 +1,6 @@
-Program Name: Simple Calc
-Objective: Calculate 2 numbers 
-Progrtammer: Felipe SG
+//Program Name: Simple Calc
+//Objective: Calculate 2 numbers 
+//Progrtammer: Felipe SG
 
 import javax.swing.JOptionPane;
 public class test2 {
